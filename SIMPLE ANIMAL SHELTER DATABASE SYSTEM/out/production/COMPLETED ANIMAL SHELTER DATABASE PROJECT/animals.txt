@@ -1,0 +1,12 @@
+Guinea pig,Albert,M,17
+Parrot,Bob,M,3
+Tiger,Cleo,F,3
+Fish,Jerry,M,2
+flamingo,Nelly,F,17
+Giraffe,Peter,M,5
+Dog,Ricky,M,3
+Crocodile,Samson,M,3
+Antelope,Sandy,M,3
+Leopard,SPIKE,M,3
+dog,spike,m,3
+Monkey,Sven,m,9
